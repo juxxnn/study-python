@@ -1,0 +1,36 @@
+# Day 1 - Beginner
+# Working with variables in Python to Manage Data.
+
+# print() - função para imprimir na tela
+
+print("Hello World!")
+
+# Print Modifiers
+# Para detonar uma fala usamos aspas, se quisermos que apareça no código, temos essas opções abaixo:
+
+print("Ela disse \"Oi\" e foi embora")
+
+print('Ela disse "Oi" e foi embora')
+
+print("Ela disse 'Oi' e foi embora")
+
+# Manipulação de string
+
+# Utilizamos o \n para quebrar linha
+print("Oi!\nTudo bem?")
+
+# Utilizamos o + para concatenar strings
+print("Meu nome é " + "Juliana")
+
+# input() - função para receber dados do usuário
+name = input("What is your name? ")
+print(name)
+
+# Ao invés de utilizar o print e o input em duas linhas, podemos fazer de uma só vez
+print('Hello ' + input('Qual o seu nome?') + "!")
+
+# len() - função para contar a quantidade de caracteres de uma string
+
+name = input("What is your name?")
+length = len(name)
+print(length)
