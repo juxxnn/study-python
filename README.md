@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/juxxnn/study-python)
 ![GitHub repo size](https://img.shields.io/github/repo-size/juxxnn/study-python)
 
-<p align="center"> <img src="https://favim.com/pd/s11/orig/7/796/7965/79657/gif-90s-retro-Favim.com-7965787.gif" width="70%"/> </p>
+<p align="center"> <img src="https://1.bp.blogspot.com/-5KEVfdwVYP0/X2-ckFfYKkI/AAAAAAAAGqs/oZGjRTxnwA4ugCctDa6AsYi08EwdxLE_QCPcBGAYYCw/s1280/c18090a25ff6a94690abd65856ec744b.gif" width="70%"/> </p>
 
 <br>
 
