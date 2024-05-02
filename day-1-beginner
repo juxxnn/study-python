@@ -29,8 +29,18 @@ print(name)
 # Ao invés de utilizar o print e o input em duas linhas, podemos fazer de uma só vez
 print('Hello ' + input('Qual o seu nome?') + "!")
 
-# len() - função para contar a quantidade de caracteres de uma string
+# len() - função de comprimento, retorna o número de itens de um objeto ou se for uma string, retorna o número de caracteres
 
 name = input("What is your name?")
 length = len(name)
 print(length)
+
+# Variavéis
+
+# É um objeto (uma posição, frequentemente localiazada em memória) capaz de reter e representar uma expressão. Pode ser alterado, é variável.
+# Não podemos começar com um número na variável, espaço em branco, utilizar caracteres especiais e palavras reservadas.
+
+# Variavéis globais: podem ser acessadas em qualquer parte do código.
+# Variavéis locais: podem ser acessadas apenas no bloco de código onde foram criadas.
+
+name = "Juliana"
